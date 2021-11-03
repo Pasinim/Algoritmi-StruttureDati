@@ -1,0 +1,6 @@
+Per svolgere l'esercizio utilizzando una struttura come il grafo
+è necessario rappresentare ciascuna luce come un vertice mentre ciascub
+collegamento tra due lampadine adiacenti è rappresentato con degli archi.
+Si tratta di un grafo non orientato, dato che se la luce[1] è connessa alla luce[2] sarà vero anche 
+il contrrio. Può essere interpretato come un grafo colorato, in cui i colori rappresentano on e off
+della luce.
